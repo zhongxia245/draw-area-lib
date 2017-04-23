@@ -25,3 +25,8 @@ var drawCustomArea = new Draw.DrawCustomArea({
   }
 });
 ```
+
+## 三、效果
+![](https://ww2.sinaimg.cn/large/006tNc79ly1fex3ouq9f1j317c0sgdhd.jpg)
+
+对齐功能未截图，请下载尝试
